@@ -1,2 +1,2 @@
 # portofolio3
-Portofolio
+Portofolio responsive
